@@ -88,7 +88,7 @@ const InvocarApiSkiData = async () => {
 }
 
 const doPostApiSkiDate = async () => {
-    const url = `http://HELIOS:8080/skdta_pass/SetWhitelist`;
+    const url = ``;
     const plate = matricula.value;
     const from = dateInicio.value;
     const to = dateFin.value;
